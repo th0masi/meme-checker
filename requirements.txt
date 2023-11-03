@@ -1,0 +1,5 @@
+pip
+attrs
+wheel
+setuptools
+web3
