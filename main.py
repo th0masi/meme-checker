@@ -9,8 +9,8 @@ filename = "wallets"
 
 
 w3 = Web3(Web3.HTTPProvider(rpc))
-_type = [0, 4]
-contract_address = w3.to_checksum_address("0xb1911d8ffcc2d8ca6c5ea4f4f18be6ea675c1ce7")
+_type = [0, 1, 2, 3, 4]
+contract_address = w3.to_checksum_address("0xE6f3494E839F3D3Fb36c407eB35cd85D90Dc3704")
 abi = [
     {
         "inputs": [
